@@ -10,7 +10,6 @@ from mutagen.mp3 import MP3
 from pygame import mixer
 
 mixer.init()
-o = 1
 
 # Store the current position of the music
 current_position = 0
